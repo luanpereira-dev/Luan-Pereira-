@@ -1,7 +1,7 @@
 <h1 align="center">Luan Pereira</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer • Front-End Engineer • UI/UX Builder
+Full Stack Developer • Front-End Engineer • UI/UX Builder
 </h3>
 
 <p align="center">
@@ -16,7 +16,7 @@ Building modern systems, premium interfaces and scalable applications.
 
 ---
 
-# 👨‍💻 Sobre Mim
+#  Sobre Mim
 
 ```js
 const luan = {
@@ -54,7 +54,7 @@ const luan = {
 
 ---
 
-# 🚀 Tech Stack
+# Tech Stack
 
 <p align="center">
 
@@ -64,9 +64,9 @@ const luan = {
 
 ---
 
-# 📌 Projetos em Destaque
+# Projetos em Destaque
 
-## 🦷 Sistema Odontológico Premium
+## Sistema Odontológico Premium
 ✔ Agendamento inteligente  
 ✔ Login/Auth  
 ✔ Dashboard moderno  
@@ -75,7 +75,7 @@ const luan = {
 
 ---
 
-## 🍰 Sweet Snake Delivery
+## Sweet Snake Delivery
 ✔ Sistema Delivery  
 ✔ Estratégia Mobile  
 ✔ Cardápio Digital  
@@ -83,7 +83,7 @@ const luan = {
 
 ---
 
-## 💅 Gabriela Art Unhas
+##  Gabriela Art Unhas
 ✔ Landing Premium  
 ✔ Conversão de clientes  
 ✔ Branding de Studio  
@@ -91,7 +91,7 @@ const luan = {
 
 ---
 
-# 📊 GitHub Analytics
+#  GitHub Analytics
 
 <p align="center">
 
@@ -103,7 +103,7 @@ const luan = {
 
 ---
 
-# 🔥 GitHub Streak
+# GitHub Streak
 
 <p align="center">
 
@@ -113,7 +113,7 @@ const luan = {
 
 ---
 
-# 🌎 Redes Sociais
+#  Redes Sociais
 
 <p align="center">
 
@@ -137,7 +137,7 @@ const luan = {
 
 ---
 
-# 🚀 Current Goal
+# Current Goal
 
 ```txt
 Become a high-level Full Stack Engineer
