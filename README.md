@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Luan Pereira
+#  Luan Pereira
 ### Desenvolvedor Full Stack • Front-End Engineer • UI/UX Builder
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Construindo+sistemas+modernos+e+escaláveis;Front-End+de+alto+nível;Node.js+%7C+React+%7C+JavaScript+%7C+UI%2FUX;Transformando+ideias+em+produtos+digitais" />
@@ -15,7 +15,7 @@
 
 ---
 
-# 👨‍💻 Sobre Mim
+# Sobre Mim
 
 ```js
 const luan = {
