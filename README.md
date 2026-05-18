@@ -64,7 +64,7 @@ const luan = {
 
 ---
 
-# 📌 Projetos em Destaque
+# Projetos em Destaque
 
 ## Sistema Odontológico Premium
 ✔ Agendamento inteligente  
