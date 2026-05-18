@@ -1,4 +1,4 @@
-<h1 align="center">Luan Pereira</h1>
+**<h1 align="center">Luan Pereira</h1>**
 
 <h3 align="center">
 Full Stack Developer • Front-End Engineer • UI/UX Builder
