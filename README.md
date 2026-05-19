@@ -10,9 +10,7 @@ Building modern systems, premium interfaces and scalable applications.
 <p align="center">  
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+JavaScript;Building+Premium+Digital+Products;UI%2FUX+Focused+Engineer" />  
 </p>  
----
 
-Sobre Mim
 
 # 🧠 ABOUT_ME.EXE
 
@@ -22,7 +20,6 @@ Sobre Mim
 
 </p>
 
----
 
 <div align="center">
 
@@ -33,16 +30,16 @@ Sobre Mim
 
 SYSTEM ONLINE ✔
 
----
 
-Tech Stack
+
+#  Tech Stack
 
 <p align="center">  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,git,github,vscode" />  </p>  
----
 
-Projetos em Destaque
 
-Sistema Odontológico Premium
+#  Projetos em Destaque
+
+<h3>Sistema Odontológico<h3>
 
 ✔ Agendamento inteligente
 ✔ Login/Auth
