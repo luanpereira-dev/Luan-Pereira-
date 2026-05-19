@@ -14,38 +14,24 @@ Building modern systems, premium interfaces and scalable applications.
 
 Sobre Mim
 
-const luan = {  
-  role: "Full Stack Developer",  
-    
-  stack: [  
-    "JavaScript",  
-    "React",  
-    "Node.js",  
-    "HTML",  
-    "CSS",  
-    "Git",  
-    "GitHub"  
-  ],  
-  
-  focus: [  
-    "Modern Web Applications",  
-    "UI/UX",  
-    "Premium Landing Pages",  
-    "Business Systems",  
-    "Scalable Applications"  
-  ],  
-  
-  currentlyLearning: [  
-    "APIs REST",  
-    "Back-End Architecture",  
-    "Node.js",  
-    "Databases"  
-  ],  
-  
-  mission:  
-    "Create modern digital products with experience."  
-}
+# 🧠 ABOUT_ME.EXE
 
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Initializing+Developer+Profile...;Loading+Skills...;Loading+Projects...;Loading+Future+Engineer...;System+Online+✔" />
+
+</p>
+
+---
+
+<div align="center">
+
+```bash
+> booting developer profile...
+
+[████████████████████] 100%
+
+SYSTEM ONLINE ✔
 
 ---
 
