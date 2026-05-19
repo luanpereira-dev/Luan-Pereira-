@@ -48,7 +48,7 @@ const luan = {
   ],
 
   mission:
-    "Create modern digital products with premium experience."
+    "Create modern digital products with experience."
 }
 ```
 
