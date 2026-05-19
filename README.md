@@ -5,6 +5,9 @@ Full Stack Developer • Front-End Engineer • UI/UX Builder
 Building modern systems, premium interfaces and scalable applications.  
 </p>  
 
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+JavaScript;Building+Modern+Experiences;Creating+Premium+Systems;Future+Software+Engineer;UI%2FUX+Focused+Developer" />
+
+
 <p align="center">
 Creating premium systems, immersive experiences and futuristic applications.
 </p>
