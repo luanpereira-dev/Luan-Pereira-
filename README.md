@@ -14,6 +14,12 @@
   <img src="https://img.shields.io/badge/%E2%96%AE%20DATA_GRID-LIVE_METRICS-00ff66?style=for-the-badge&labelColor=070707" />
 </p>
 
+# <h1>Construindo o <span style="color: #00bfff;">futuro digital</span> com experiência.</h1>
+
+<p style="font-size: 18px; color: #bdbdbd; max-width: 700px;">
+  Desenvolvedor Full Stack focado em aplicações modernas, interfaces, experiências futuristas e sistemas escaláveis. Especialista em React, Node.js, Python e UI/UX de alto impacto.
+</p>
+
 <p align="center">
   <a href="#%EF%B8%8F-dimensional-overview">Overview</a> • 
   <a href="#%EF%B8%8F-3d-architectural-blueprints">Blueprints</a> • 
@@ -30,22 +36,19 @@
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="49%" valign="top" style="background: linear-gradient(145deg, #121212, #080808); padding: 30px; border-radius: 20px; border-top: 3px solid #00bfff; border-left: 1px solid #00bfff20; box-shadow: 5px 5px 15px rgba(0, 191, 255, 0.1);">
-      <h3 style="color: #00bfff; font-family: 'Fira Code', monospace;">⧉ [LAYER_01] // Visual Engine</h3>
-      <p style="color: #a0a0a0; line-height: 28px; font-family: 'Fira Code', monospace; font-size: 13px;">
-        > Modelagem de SPAs volumétricas de alto impacto.<br>
-        > Interfaces hiper-responsivas renderizadas via <b>React & TypeScript</b>.<br>
-        > Arquiteturas com profundidade visual (Shadow Mapping artificial, Depth Mechanics e UI Pixel-Perfect).
-      </p>
+    <td width="33.3%" valign="top" style="background: linear-gradient(145deg, #121212, #080808); padding: 20px; border-radius: 15px; border-top: 3px solid #00bfff; border-left: 1px solid #00bfff20; box-shadow: 5px 5px 15px rgba(0, 191, 255, 0.1);">
+      <h3 style="color: #00bfff;">⚡ Minha Missão</h3>
+      <p style="color: #b8b8b8; line-height: 24px;">Criar sistemas modernos, interfaces tridimensionais e aplicações SPAs de alto impacto visual com <b>React & TypeScript</b> que entreguem valor real, design premium e performance extrema.</p>
     </td>
-    <td width="2%"></td>
-    <td width="49%" valign="top" style="background: linear-gradient(145deg, #121212, #080808); padding: 30px; border-radius: 20px; border-top: 3px solid #7b2cff; border-left: 1px solid #7b2cff20; box-shadow: 5px 5px 15px rgba(123, 44, 255, 0.1);">
-      <h3 style="color: #7b2cff; font-family: 'Fira Code', monospace;">⧉ [LAYER_02] // Heavy Processing</h3>
-      <p style="color: #a0a0a0; line-height: 28px; font-family: 'Fira Code', monospace; font-size: 13px;">
-        > Orquestração de dados assíncronos em pipelines multidimensionais.<br>
-        > Backend sólido construído sobre ecossistemas robustos em <b>Python</b>.<br>
-        > Governança rígida de código sob as diretrizes de design estável <b>SOLID</b>.
-      </p>
+    <td width="1.5%"></td>
+    <td width="33.3%" valign="top" style="background: linear-gradient(145deg, #121212, #080808); padding: 20px; border-radius: 15px; border-top: 3px solid #7b2cff; border-left: 1px solid #7b2cff20; box-shadow: 5px 5px 15px rgba(123, 44, 255, 0.1);">
+      <h3>🧠 Mentalidade</h3>
+      <p style="color: #b8b8b8; line-height: 24px;">Construindo minha evolução contínua baseada em padrões rigorosos de mercado. Dominando arquiteturas assíncronas distribuídas, APIs resilientes com <b>Python/Node.js</b> e os princípios estruturais do <b>SOLID</b>.</p>
+    </td>
+    <td width="1.5%"></td>
+    <td width="33.3%" valign="top" style="background: linear-gradient(145deg, #121212, #080808); padding: 20px; border-radius: 15px; border-top: 3px solid #00ff66; border-left: 1px solid #00ff6620; box-shadow: 5px 5px 15px rgba(0, 255, 102, 0.1);">
+      <h3 style="color: #00ff66;">🔥 Diferencial</h3>
+      <p style="color: #b8b8b8; line-height: 24px;">Engenharia de ponta a ponta. O foco não é apenas escrever linhas de código, mas sim orquestrar microsserviços seguros com estabilidade interna e uma forte camada de UI/UX Pixel-Perfect.</p>
     </td>
   </tr>
 </table>
@@ -57,7 +60,7 @@
 ```sml
    +-------------------------------------------------------+
    |                  [ USER INTERFACE 3D ]                |
-   |              React Node / TypeScript View             |
+   |         React SPA / TypeScript / Next-Gen UI          |
    +-------------------------------------------------------+
                               | (Async Payload)
                               v
@@ -68,6 +71,6 @@
                               | (Isolate Channels)
                               v
    +-------------------------------------------------------+
-   |            [ CORE BACKEND CORE MICROSERVICES ]        |
-   |        Python Engine / Circuit-Breaker Protected      |
+   |            [ CORE BACKEND MICROSERVICES ]             |
+   |    Python & Node.js Engine / Circuit-Breaker Protected|
    +-------------------------------------------------------+
