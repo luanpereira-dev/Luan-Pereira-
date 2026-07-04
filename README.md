@@ -4,9 +4,11 @@
 
 </p>
 
+<span> dev </span>
+
 <h1 align="center">
 
-Olá! Eu sou o Luan Pereira
+Luan Pereira
 
 </h1>
 
