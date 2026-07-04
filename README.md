@@ -4,7 +4,10 @@
 
 </p>
 
-<span> dev </span>
+<span align="center"> 
+
+DEV
+ </span>
 
 <h1 align="center">
 
