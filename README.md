@@ -7,7 +7,8 @@
 <span align="center"> 
 
 DESENVOLVEDOR 
- </span>
+
+</span>
 
 <h1 align="center">
 
@@ -52,17 +53,11 @@ Meu objetivo é criar aplicações modernas, intuitivas e com foco em experiênc
 Hoje concentro meus estudos em:
 
 - HTML5
-
 - CSS3
-
 - JavaScript
-
 - Python
-
 - Git e GitHub
-
 - UI/UX
-
 - Desenvolvimento Responsivo
 
 ---
