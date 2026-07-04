@@ -100,7 +100,7 @@ para alcançar o meu melhor. Assim,sigo evoluindo diariamente
 <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a>
 
-<a href=https://youtube.com/@l-senji?si=ee350OCf7t_9nEWv" target="_blank">
+<a href=https://youtube.com/@l-senji?si=ee350OCf7t_9nEWv">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
