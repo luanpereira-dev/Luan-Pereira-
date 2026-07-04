@@ -136,32 +136,6 @@ Future Dashboard          ███████░░░░░░░░░ 45%
 ---
 
 
----
-
-# Developer Notes
-
-```bash
-$ current-project
-
-MAC X SYSTEM
-
-$ objective
-
-Create software that solves real business problems.
-
-$ philosophy
-
-Every project should generate value.
-
-$ next-mission
-
-Build scalable web applications.
-```
-
----
-
-> "I believe software should do more than look good. It should solve real problems, simplify processes, and create value for businesses and people."
-
 # Atualmente
 
 Estudando Programação e Desenvolvimento de Sistemas
