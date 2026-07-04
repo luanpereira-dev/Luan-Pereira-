@@ -47,8 +47,11 @@ Estudante de Programação
 </p>
 
 ---
-
+<p align="center">
+  
 # Connect with Me
+
+</p>
 
 <p align="center">
 
