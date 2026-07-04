@@ -97,6 +97,7 @@ furniture business into a modern digital experience.
 
 ## Mission Status
 
+<p align="left">
 ```yaml
 Project Name:      MAC X SYSTEM
 Status:            🟢 Active Development
@@ -106,7 +107,7 @@ Architecture:      Responsive Web Application
 Current Version:   v1.0
 Deployment:        Preparing...
 ```
-
+</p>
 ---
 
 
