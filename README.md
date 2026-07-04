@@ -18,11 +18,15 @@ FULLSTACK
 
 <h3 align="center">
 
-Estudante de Programação
+Estudante de Programação 
 • Desenvolvedor Web em formação 
 • Construindo projetos reais
 
 </h3>
+
+<p>
+  Instituto Grau Técnico Madureira
+</p>
 
 <p align="center">
 
@@ -62,26 +66,13 @@ intuitivas e com foco em experiência do
 usuário, utilizando boas práticas de 
 desenvolvimento e arquitetura de software.
 
-Hoje concentro meus estudos em:
-
-- HTML5
-- CSS3
-- JavaScript
-- Python
-- Git e GitHub
-- UI/UX
-- Desenvolvimento Responsivo
+Hoje concentro meus estudos em HTML5, CSS3,
+JavaScript, Python, Git e GitHub, UI/UX, 
+Desenvolvimento Responsivo
 
 ---
 
 # Atualmente
 
-✔ Estudando Programação e Desenvolvimento de Sistemas
-
-✔ Desenvolvendo projetos completos para portfólio
-
-✔ Aprendendo JavaScript na prática
-
-✔ Construindo aplicações reais
-
-✔ Evoluindo diariamente
+Estudando Programação e Desenvolvimento de Sistemas
+para alcançar o meu melhor. Assim,sigo evoluindo diariamente
