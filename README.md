@@ -6,7 +6,7 @@
 
 <span align="center"> 
 
-DESENVOLVEDOR 
+PROGRAMADOR 
 
 </span>
 
@@ -44,11 +44,21 @@ Estudante de Programação • Desenvolvedor Web em formação • Construindo p
 
 # Sobre mim
 
-Sou estudante de Programação e Desenvolvimento de Sistemas, apaixonado por tecnologia e desenvolvimento web.
+Sou estudante de Programação 
+e Desenvolvimento de Sistemas, 
+apaixonado por tecnologia e 
+desenvolvimento web.
 
-Atualmente estou focado em evoluir como Desenvolvedor Front-end, aprofundando meus conhecimentos em JavaScript e iniciando minha jornada no desenvolvimento Full Stack.
+Atualmente estou focado em evoluir 
+como Desenvolvedor Front-end, 
+aprofundando meus conhecimentos 
+em JavaScript e iniciando minha 
+jornada no desenvolvimento Full Stack.
 
-Meu objetivo é criar aplicações modernas, intuitivas e com foco em experiência do usuário, utilizando boas práticas de desenvolvimento e arquitetura de software.
+Meu objetivo é criar aplicações modernas, 
+intuitivas e com foco em experiência do 
+usuário, utilizando boas práticas de 
+desenvolvimento e arquitetura de software.
 
 Hoje concentro meus estudos em:
 
