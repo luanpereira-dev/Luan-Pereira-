@@ -49,34 +49,14 @@ Estudante de Programação
 ---
 <span align="center">
   
-# Connect with Me
 
-</span>
-
-<p align="center">
-
-
-<a href="https://www.instagram.com/lsenji" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://www.tiktok.com/@lsenji" target="_blank">
-<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
-</a>
-
-<a href="https://www.youtube.com/@lsenji" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
 
 ---
-
+<span align="center">
+  
 # Sobre mim
+
+</span>
 
 Sou estudante de Programação 
 e Desenvolvimento de Sistemas, 
@@ -104,3 +84,28 @@ Desenvolvimento Responsivo
 
 Estudando Programação e Desenvolvimento de Sistemas
 para alcançar o meu melhor. Assim,sigo evoluindo diariamente
+
+# Connect with Me
+
+</span>
+
+<p align="center">
+
+
+<a href="https://www.instagram.com/lsenji" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.tiktok.com/@lsenji" target="_blank">
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@lsenji" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
