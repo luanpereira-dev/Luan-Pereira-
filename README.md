@@ -24,7 +24,7 @@ Estudante de Programação
 
 </h3>
 
-<p>
+<p align="center">
   Instituto Grau Técnico Madureira
 </p>
 
