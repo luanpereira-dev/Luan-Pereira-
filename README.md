@@ -82,6 +82,86 @@ Desenvolvimento Responsivo
 
 ---
 
+# Projetos 
+
+<div align="center">
+
+# MAC X MÓVEIS SYSTEM 
+
+### Transforming a traditional 
+furniture business into a modern digital experience.
+
+</div>
+
+---
+
+## Mission Status
+
+```yaml
+Project Name:      MAC X SYSTEM
+Status:            🟢 Active Development
+Client:            MAC X Móveis
+Type:              Commercial Project
+Architecture:      Responsive Web Application
+Current Version:   v1.0
+Deployment:        Preparing...
+```
+
+---
+
+
+
+# Current Progress
+
+```text
+Planning                  ████████████████ 100%
+
+UI / UX                   ████████████████ 100%
+
+Responsive Layout         ███████████████░ 95%
+
+Animations                ██████████████░░ 90%
+
+JavaScript                █████████████░░░ 85%
+
+Lead Generation           ████████████░░░░ 80%
+
+WhatsApp Integration      ███████████████░ 95%
+
+Performance               ███████████░░░░░ 75%
+
+Future Dashboard          ███████░░░░░░░░░ 45%
+```
+
+---
+
+
+---
+
+# Developer Notes
+
+```bash
+$ current-project
+
+MAC X SYSTEM
+
+$ objective
+
+Create software that solves real business problems.
+
+$ philosophy
+
+Every project should generate value.
+
+$ next-mission
+
+Build scalable web applications.
+```
+
+---
+
+> "I believe software should do more than look good. It should solve real problems, simplify processes, and create value for businesses and people."
+
 # Atualmente
 
 Estudando Programação e Desenvolvimento de Sistemas
