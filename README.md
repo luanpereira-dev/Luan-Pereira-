@@ -96,7 +96,7 @@ para alcançar o meu melhor. Assim,sigo evoluindo diariamente
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://www.tiktok.com/@lsenji" target="_blank">
+<a href="https://www.tiktok.com/@l_senji?_r=1&_t=ZS-97kYayhp1hF" target="_blank">
 <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a>
 
