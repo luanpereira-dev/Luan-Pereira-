@@ -6,7 +6,7 @@
 
 <h1 align="center">
 
-👋 Olá! Eu sou o Luan Pereira
+Olá! Eu sou o Luan Pereira
 
 </h1>
 
@@ -36,7 +36,7 @@ Estudante de Programação • Desenvolvedor Web em formação • Construindo p
 
 ---
 
-# 🚀 Sobre mim
+# Sobre mim
 
 Sou estudante de Programação e Desenvolvimento de Sistemas, apaixonado por tecnologia e desenvolvimento web.
 
@@ -62,7 +62,7 @@ Hoje concentro meus estudos em:
 
 ---
 
-# 📈 Atualmente
+# Atualmente
 
 ✔ Estudando Programação e Desenvolvimento de Sistemas
 
