@@ -6,12 +6,12 @@
 
 <span align="center"> 
 
-DEV
+DESENVOLVEDOR 
  </span>
 
 <h1 align="center">
 
-Luan Pereira
+FULLSTACK
 
 </h1>
 
