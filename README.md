@@ -10,11 +10,11 @@
 
 </span>
 
-<h1 align="center">
+<span align="center">
 
 # FULLSTACK
 
-</h1>
+</span>
 
 <h3 align="center">
 
