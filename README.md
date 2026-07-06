@@ -136,13 +136,13 @@ Future Dashboard          ███████░░░░░░░░░ 45%
 
 ---
 
-# 🚀 Developer Journey 2026
+# Developer Journey 2026
 
 > *"Every line of code represents another step toward becoming the developer I aspire to be."*
 
 ---
 
-# 📈 Learning Evolution
+# Learning Evolution
 
 ```mermaid
 
@@ -160,7 +160,7 @@ xychart-beta
 
 ---
 
-# 🗓️ Timeline
+# Timeline
 
 ```mermaid
 
@@ -206,9 +206,9 @@ timeline
 
 ---
 
-# 💼 Featured Project
+# Featured Project
 
-## 🪑 MAC X SYSTEM
+## MAC X SYSTEM
 
 ```text
 
@@ -250,7 +250,7 @@ Preparing for Vercel
 
 ---
 
-# 🎯 Project Mission
+# Project Mission
 
 The MAC X System is a real-world commercial project designed to modernize the customer experience of a custom furniture company.
 
@@ -274,7 +274,7 @@ The MAC X System is a real-world commercial project designed to modernize the cu
 
 ---
 
-# 🔄 Customer Journey
+# Customer Journey
 
 ```mermaid
 
@@ -298,7 +298,7 @@ G --> H[Sales Team]
 
 ---
 
-# 📊 Current Progress
+# Current Progress
 
 ```mermaid
 
@@ -332,7 +332,7 @@ gantt
 
 ---
 
-# 🚀 What's Next
+# What's Next
 
 - Dashboard
 
@@ -354,7 +354,7 @@ gantt
 
 ---
 
-# 💡 Why This Project Matters
+# Why This Project Matters
 
 This project represents much more than a website.
 
@@ -374,7 +374,7 @@ It demonstrates my ability to:
 
 ---
 
-# 🎖️ Current Mission
+# Current Mission
 
 ```text
 
