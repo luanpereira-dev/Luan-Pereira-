@@ -136,6 +136,280 @@ Future Dashboard          ███████░░░░░░░░░ 45%
 
 ---
 
+# 🚀 Developer Journey 2026
+
+> *"Every line of code represents another step toward becoming the developer I aspire to be."*
+
+---
+
+# 📈 Learning Evolution
+
+```mermaid
+
+xychart-beta
+
+    title "Programming Learning Progress - 2026"
+
+    x-axis ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep"]
+
+    y-axis "Knowledge Growth" 0 --> 100
+
+    line [5,15,28,42,58,70,81,90,96]
+
+```
+
+---
+
+# 🗓️ Timeline
+
+```mermaid
+
+timeline
+
+    title My Web Development Journey
+
+    January : Started studying HTML
+
+             : Semantic structure
+
+    February : Advanced CSS
+
+              : Responsive Design
+
+    March : JavaScript Fundamentals
+
+           : DOM Manipulation
+
+    April : Programming Logic
+
+           : Interactive Applications
+
+    May : Portfolio Development
+
+         : Modern UI Components
+
+    June : Quantum Portfolio
+
+         : Git & GitHub
+
+    July : Dental Management System
+
+         : Professional README
+
+    August : MAC X System
+
+           : Real Business Project
+
+    September : Preparing for Professional Opportunities
+
+```
+
+---
+
+# 💼 Featured Project
+
+## 🪑 MAC X SYSTEM
+
+```text
+
+STATUS
+
+█████████████████████░░░ 90%
+
+Client:
+
+MAC X Móveis
+
+Category:
+
+Commercial Web Application
+
+Objective:
+
+Transform a traditional furniture business into a modern digital experience.
+
+Stack:
+
+HTML5
+
+CSS3
+
+JavaScript
+
+Git
+
+GitHub
+
+Responsive Design
+
+Deployment:
+
+Preparing for Vercel
+
+```
+
+---
+
+# 🎯 Project Mission
+
+The MAC X System is a real-world commercial project designed to modernize the customer experience of a custom furniture company.
+
+### Main Objectives
+
+- Premium Landing Page
+
+- Interactive Portfolio
+
+- Mobile First Experience
+
+- Lead Generation
+
+- WhatsApp Integration
+
+- SEO Optimization
+
+- Performance Optimization
+
+- Modern User Experience
+
+---
+
+# 🔄 Customer Journey
+
+```mermaid
+
+flowchart LR
+
+A[Visitor] --> B[Website]
+
+B --> C[Portfolio]
+
+C --> D[Explore Services]
+
+D --> E[Request Quote]
+
+E --> F[WhatsApp]
+
+F --> G[Qualified Lead]
+
+G --> H[Sales Team]
+
+```
+
+---
+
+# 📊 Current Progress
+
+```mermaid
+
+gantt
+
+    title MAC X SYSTEM Roadmap
+
+    dateFormat YYYY-MM-DD
+
+    section Front-End
+
+    UI Design               :done, a1, 2026-01-01,2026-02-15
+
+    Responsive Layout       :done, a2, 2026-02-16,2026-03-20
+
+    JavaScript              :active, a3, 2026-03-21,2026-05-10
+
+    Animations              :active, a4, 2026-04-01,2026-05-25
+
+    section Features
+
+    WhatsApp Integration    :active, a5, 2026-05-01,2026-06-01
+
+    Dashboard               :a6, 2026-06-05,2026-07-20
+
+    Analytics               :a7, 2026-07-15,2026-08-10
+
+    Deployment              :a8, 2026-08-15,2026-09-01
+
+```
+
+---
+
+# 🚀 What's Next
+
+- Dashboard
+
+- Analytics
+
+- CRM Integration
+
+- Admin Panel
+
+- AI Quote Assistant
+
+- Customer Area
+
+- Online Scheduling
+
+- Cloud Database
+
+- Performance Optimization
+
+---
+
+# 💡 Why This Project Matters
+
+This project represents much more than a website.
+
+It demonstrates my ability to:
+
+✔ Analyze real business needs
+
+✔ Design modern user experiences
+
+✔ Build responsive interfaces
+
+✔ Develop scalable solutions
+
+✔ Apply JavaScript to real scenarios
+
+✔ Create software that generates business value
+
+---
+
+# 🎖️ Current Mission
+
+```text
+
+MISSION:
+
+Become a Professional Web Developer
+
+CURRENT FOCUS:
+
+Building Real Software
+
+ACTIVE PROJECT:
+
+MAC X SYSTEM
+
+NEXT DEPLOY:
+
+Vercel
+
+NEXT GOAL:
+
+First Professional Opportunity
+
+STATUS:
+
+███████████████████░░ 95%
+
+```
+
+---
+
+> **"I don't just study programming. I build solutions for real businesses, continuously improving my skills through practical projects and modern web technologies."**
+
+---
+
 
 # Atualmente
 
